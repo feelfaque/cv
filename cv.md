@@ -1,29 +1,27 @@
-#Anna Saenko
+#__Anna Saenko__
 
+---
 
-===
-
-
-##Contacts
+##__Contacts__
 
 
 Based in **Luxembourg**, L-6976
 **Phone:** +352621153882
 **Email:** a.saenko2109@gmail.com
 
-===
+---
 
 
-##About me
+##__About me__
 
 
 I started my way in Frontend development a couple of years ago. I came into this sphere from teaching, which is fulfilling but rather time-consuming. Thanks to my previous experience I'm attentive to details and capable of building work and communication in a team. In my next position I hope to apply my competences as a developer.
 
 
-===
+---
 
 
-##Skills
+##__Skills__
 
 
 1. HTML, CSS
@@ -35,19 +33,19 @@ I started my way in Frontend development a couple of years ago. I came into this
 7. Node.JS basics 
 
 
-===
+---
 
 
-##Code examples
+##__Code examples__
 
 
 Examples of my code can be found on my [github account](https://github.com/feelfaque).
 
 
-===
+---
 
 
-##Experience 
+##__Experience__
 
 
 2021-2022 iTechArt Group, Belarus
@@ -59,10 +57,10 @@ Started from an intern position and built my way up to a permanent position. Had
 English teacher, methodologist
 
 
-===
+---
 
 
-##Education 
+##__Education__
 
 
 - 2021-2021 TeachMeSkills school
@@ -73,10 +71,10 @@ Frontend development
 Bachelor, Linguistics major. GPA 4.0
 
 
-===
+---
 
 
-##Languages
+##__Languages__
 
 
 - Russian (native)
