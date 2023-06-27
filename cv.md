@@ -1,8 +1,8 @@
-#__Anna Saenko__
+# __Anna Saenko__
 
 ---
 
-##__Contacts__
+## __Contacts__
 
 
 Based in **Luxembourg**, L-6976
@@ -12,7 +12,7 @@ Based in **Luxembourg**, L-6976
 ---
 
 
-##__About me__
+## __About me__
 
 
 I started my way in Frontend development a couple of years ago. I came into this sphere from teaching, which is fulfilling but rather time-consuming. Thanks to my previous experience I'm attentive to details and capable of building work and communication in a team. In my next position I hope to apply my competences as a developer.
@@ -21,7 +21,7 @@ I started my way in Frontend development a couple of years ago. I came into this
 ---
 
 
-##__Skills__
+## __Skills__
 
 
 1. HTML, CSS
@@ -36,7 +36,7 @@ I started my way in Frontend development a couple of years ago. I came into this
 ---
 
 
-##__Code examples__
+## __Code examples__
 
 
 Examples of my code can be found on my [github account](https://github.com/feelfaque).
@@ -45,7 +45,7 @@ Examples of my code can be found on my [github account](https://github.com/feelf
 ---
 
 
-##__Experience__
+## __Experience__
 
 
 2021-2022 iTechArt Group, Belarus
@@ -60,7 +60,7 @@ English teacher, methodologist
 ---
 
 
-##__Education__
+## __Education__
 
 
 - 2021-2021 TeachMeSkills school
@@ -74,7 +74,7 @@ Bachelor, Linguistics major. GPA 4.0
 ---
 
 
-##__Languages__
+## __Languages__
 
 
 - Russian (native)
