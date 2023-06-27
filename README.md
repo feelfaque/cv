@@ -1,1 +1,1 @@
-# rsschool-cv
+https://feelfaque.github.io/rsschool-cv/cv
