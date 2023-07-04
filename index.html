@@ -101,7 +101,32 @@
                     <h2 class="main-subtitle" id="code">Code examples</h2>
                     <div class="main-text-item">
                         <p class="main-text">
-                            Examples of my code can be found on my <a href="https://github.com/anna-saenko"
+                        <pre>
+                                <code class="code">
+let todoList = {
+    todoItems: [],
+    addItem( description ) {
+        this.todoItems.push( { description, done: false } );
+        return this;
+    },
+    crossOutItem( index ) {
+        if ( index < this.todoItems.length ) {
+            this.todoItems[index].done = true;
+        }
+        return this;
+    }
+};
+
+todoList.addItem( 'task 1' ).addItem( 'task 2' ).crossOutItem( 0 );
+let iterableTodoList = todoList.todoItems[Symbol.iterator]();
+for ( let item of iterableTodoList ) {
+    console.log( item );
+}
+                                </code>
+                            </pre>
+                        </p>
+                        <p class="main-text">
+                            Other examples of my code can be found on my <a href="https://github.com/anna-saenko"
                                 class="link">[github account]</a>.
                         </p>
                     </div>
