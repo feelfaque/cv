@@ -1,3 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Poppins:ital,wght@0,300;0,500;0,700;1,500&display=swap');
+
+
 * {
     box-sizing: border-box;
+    --main-bg-color: rgba(255, 250, 253, 1);
+    --purple: rgba(92, 0, 93, 0.85);
+    --dark-purple: rgba(30, 0, 46, 0.83);
+    --grey: rgba(0, 0, 0, 0.82);
+    --dark-grey: rgba(0, 0, 0, 0.88);
+}
+
+.bg {
+    background-image: url(./assets/images/bg.jpg);
+    padding: 100px 0 100px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    padding: 30px;
+    max-width: 1000px;
+    background-color: var(--main-bg-color);
+    border-radius: 1%;
+    box-shadow: 3px -3px 22px 10px rgba(49, 45, 45, 0.68);
+    -webkit-box-shadow: 3px -3px 22px 10px rgba(49, 45, 45, 0.68);
+    -moz-box-shadow: 3px -3px 22px 10px rgba(49, 45, 45, 0.68);
+}
+
+.title {
+    font-family: 'Caprasimo', cursive;
+    color: var(--dark-purple);
+    font-size: 48px;
+    text-align: center;
+}
+
+.nav {
+    margin: 20px 0;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.list-horizontal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.link {
+    font-family: 'Poppins', sans-serif;
+    color: var(--grey);
+}
+
+.link:hover {
+    color: var(--purple);
+}
+
+.main {
+    margin: 30px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.avatar {
+    margin: 25px 0;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.main-item:not(:first-of-type) {
+    width: 80%;
+    margin: 15px 0;
+}
+
+.main-item {
+    font-family: 'Poppins', sans-serif;
+}
+
+.main-subtitle {
+    font-weight: 700;
+    font-size: 24px;
+    color: var(--dark-purple);
+    line-height: 250%;
+}
+
+.main-text-item {
+    font-weight: 300;
+    font-size: 20px;
+    color: var(--grey);
+    line-height: 150%;
+}
+
+.main-text-list-item {
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+.main-text:not(:first-child) {
+    margin-top: 20px;
+}
+
+.bold {
+    font-weight: 500;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    line-height: 150%;
+    color: var(--dark-grey);
+}
+
+.footer-item {
+    max-width: 200px;
+}
+
+.logo {
+    width: 120px;
 }
